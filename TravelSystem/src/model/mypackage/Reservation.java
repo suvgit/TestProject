@@ -34,7 +34,7 @@ public class Reservation
 	 * @ordered
 	 */
 	
-	public void reserve() {
+	public void reserveRoom() {
 		// TODO implement me
 	}
 
